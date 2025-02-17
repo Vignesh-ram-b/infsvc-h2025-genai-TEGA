@@ -1,0 +1,163 @@
+2025-02-16 20:23:35,985 - INFO - Processing test scenarios from C:\Users\Vignesh\Downloads\test_scenario_web_ai.xlsx...
+2025-02-16 20:23:49,522 - INFO - response: https://lite.duckduckgo.com/lite/ 200 7511
+2025-02-16 20:24:09,808 - INFO - response: https://lite.duckduckgo.com/lite/ 200 7287
+2025-02-16 20:24:24,688 - INFO - Running test: tests/test_login.py
+2025-02-16 20:24:36,505 - INFO - Running test: tests/test_payment.py
+2025-02-16 20:24:39,939 - INFO - Test results saved to test_results.json
+2025-02-16 20:24:39,939 - INFO - Generating HTML report...
+2025-02-16 20:24:39,941 - INFO - HTML report generated successfully.
+2025-02-16 20:31:33,680 - INFO - Processing test scenarios from C:\Users\Vignesh\Downloads\test_scenario_web_ai.xlsx...
+2025-02-16 20:31:48,097 - INFO - response: https://html.duckduckgo.com/html 200 11058
+2025-02-16 20:32:07,976 - INFO - response: https://html.duckduckgo.com/html 200 10862
+2025-02-16 20:32:26,736 - INFO - Running test: tests/test_login.py
+2025-02-16 20:32:37,505 - INFO - Running test: tests/test_payment.py
+2025-02-16 20:32:42,151 - INFO - Test results saved to test_results.json
+2025-02-16 20:32:42,151 - INFO - Generating HTML report...
+2025-02-16 20:32:42,151 - INFO - HTML report generated successfully.
+2025-02-16 22:37:51,820 - INFO - Processing test scenarios from C:\Users\Vignesh\Downloads\test_scenario_web_ai.xlsx...
+2025-02-16 22:38:26,278 - INFO - response: https://lite.duckduckgo.com/lite/ 200 7511
+2025-02-16 22:39:04,404 - INFO - response: https://html.duckduckgo.com/html 200 10862
+2025-02-16 22:39:18,307 - INFO - Running test: tests/test_login.py
+2025-02-16 22:39:30,765 - INFO - Running test: tests/test_payment.py
+2025-02-16 22:39:34,274 - INFO - Test results saved to test_results.json
+2025-02-16 22:39:34,274 - INFO - Generating HTML report...
+2025-02-16 22:39:34,275 - INFO - HTML report generated successfully.
+2025-02-16 22:41:33,687 - INFO - Processing test scenarios from C:\Users\Vignesh\Downloads\test_scenario_web_ai.xlsx...
+2025-02-16 22:41:45,900 - INFO - response: https://lite.duckduckgo.com/lite/ 200 7511
+2025-02-16 22:42:15,089 - INFO - response: https://html.duckduckgo.com/html 200 10862
+2025-02-16 22:42:30,634 - INFO - Running test: tests/test_login.py
+2025-02-16 22:42:40,267 - INFO - Running test: tests/test_payment.py
+2025-02-16 22:43:12,819 - INFO - Test results saved to test_results.json
+2025-02-16 22:43:12,819 - INFO - Generating HTML report...
+2025-02-16 22:43:12,819 - INFO - HTML report generated successfully.
+2025-02-16 22:44:29,166 - INFO - Processing test scenarios from C:\Users\Vignesh\Downloads\test_scenario_web_ai.xlsx...
+2025-02-16 22:44:41,139 - INFO - response: https://lite.duckduckgo.com/lite/ 200 7511
+2025-02-16 22:45:05,428 - INFO - response: https://html.duckduckgo.com/html 200 10862
+2025-02-16 22:45:20,126 - INFO - Running test: tests/test_login.py
+2025-02-16 22:45:29,886 - INFO - Running test: tests/test_payment.py
+2025-02-16 22:46:02,257 - INFO - Test results saved to test_results.json
+2025-02-16 22:46:02,257 - INFO - Generating HTML report...
+2025-02-16 22:46:02,261 - INFO - HTML report generated successfully.
+2025-02-16 22:46:29,515 - INFO - Processing test scenarios from C:\Users\Vignesh\Downloads\test_scenario_web_ai.xlsx...
+2025-02-16 22:46:42,263 - INFO - response: https://lite.duckduckgo.com/lite/ 200 7511
+2025-02-16 22:47:12,134 - INFO - response: https://lite.duckduckgo.com/lite/ 200 7287
+2025-02-16 22:47:23,039 - INFO - Running test: tests/test_login.py
+2025-02-16 22:47:32,477 - INFO - Running test: tests/test_payment.py
+2025-02-16 22:47:36,340 - INFO - Test results saved to test_results.json
+2025-02-16 22:47:36,340 - INFO - Generating HTML report...
+2025-02-16 22:47:36,340 - INFO - HTML report generated successfully.
+2025-02-16 22:50:18,344 - INFO - Processing test scenarios from C:\Users\Vignesh\Downloads\test_scenario_web_ai.xlsx...
+2025-02-16 22:50:30,755 - INFO - response: https://lite.duckduckgo.com/lite/ 200 7511
+2025-02-16 22:51:04,968 - INFO - response: https://lite.duckduckgo.com/lite/ 200 7287
+2025-02-16 22:51:33,175 - INFO - Running test: tests/test_login.py
+2025-02-16 22:51:42,203 - INFO - Running test: tests/test_payment.py
+2025-02-16 22:52:15,260 - INFO - Test results saved to test_results.json
+2025-02-16 22:52:15,262 - INFO - Generating HTML report...
+2025-02-16 22:52:15,264 - INFO - HTML report generated successfully.
+2025-02-16 22:54:54,800 - INFO - Processing test scenarios from C:\Users\Vignesh\Downloads\test_scenario_web_ai.xlsx...
+2025-02-16 22:55:07,840 - INFO - response: https://html.duckduckgo.com/html 200 11058
+2025-02-16 22:55:36,850 - INFO - response: https://lite.duckduckgo.com/lite/ 200 7287
+2025-02-16 22:55:45,511 - INFO - Running test: tests/test_login.py
+2025-02-16 22:55:55,313 - INFO - Running test: tests/test_payment.py
+2025-02-16 22:55:57,967 - INFO - Test results saved to test_results.json
+2025-02-16 22:55:57,968 - INFO - Generating HTML report...
+2025-02-16 22:55:57,968 - INFO - HTML report generated successfully.
+2025-02-16 22:57:35,118 - INFO - Processing test scenarios from C:\Users\Vignesh\Downloads\test_scenario_web_ai.xlsx...
+2025-02-16 22:57:52,755 - INFO - response: https://html.duckduckgo.com/html 202 14846
+2025-02-16 22:57:52,755 - INFO - Error to search using html backend: https://html.duckduckgo.com/html 202 Ratelimit
+2025-02-16 22:57:53,949 - INFO - response: https://lite.duckduckgo.com/lite/ 202 14858
+2025-02-16 22:57:53,949 - INFO - Error to search using lite backend: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+2025-02-16 22:58:18,635 - INFO - response: https://lite.duckduckgo.com/lite/ 202 14722
+2025-02-16 22:58:18,635 - INFO - Error to search using lite backend: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+2025-02-16 22:58:19,857 - INFO - response: https://html.duckduckgo.com/html 202 14716
+2025-02-16 22:58:19,857 - INFO - Error to search using html backend: https://html.duckduckgo.com/html 202 Ratelimit
+2025-02-16 22:58:38,731 - INFO - Running test: tests/test_login.py
+2025-02-16 22:58:48,767 - INFO - Running test: tests/test_payment.py
+2025-02-16 22:58:52,554 - INFO - Test results saved to test_results.json
+2025-02-16 22:58:52,554 - INFO - Generating HTML report...
+2025-02-16 22:58:52,554 - INFO - HTML report generated successfully.
+2025-02-16 23:01:02,153 - INFO - Processing test scenarios from C:\Users\Vignesh\Downloads\test_scenario_web_ai.xlsx...
+2025-02-16 23:01:13,813 - INFO - response: https://html.duckduckgo.com/html 202 14858
+2025-02-16 23:01:13,813 - INFO - Error to search using html backend: https://html.duckduckgo.com/html 202 Ratelimit
+2025-02-16 23:01:14,974 - INFO - response: https://lite.duckduckgo.com/lite/ 202 14858
+2025-02-16 23:01:14,974 - INFO - Error to search using lite backend: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+2025-02-16 23:01:38,389 - INFO - response: https://html.duckduckgo.com/html 202 14710
+2025-02-16 23:01:38,389 - INFO - Error to search using html backend: https://html.duckduckgo.com/html 202 Ratelimit
+2025-02-16 23:01:39,494 - INFO - response: https://lite.duckduckgo.com/lite/ 202 14704
+2025-02-16 23:01:39,494 - INFO - Error to search using lite backend: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+2025-02-16 23:01:59,286 - INFO - Running test: tests/test_login.py
+2025-02-16 23:02:08,755 - INFO - Running test: tests/test_payment.py
+2025-02-16 23:02:11,380 - INFO - Test results saved to test_results.json
+2025-02-16 23:02:11,381 - INFO - Generating HTML report...
+2025-02-16 23:02:11,381 - INFO - HTML report generated successfully.
+2025-02-16 23:04:09,298 - INFO - Processing test scenarios from C:\Users\Vignesh\Downloads\test_scenario_web_ai.xlsx...
+2025-02-16 23:04:27,100 - INFO - response: https://lite.duckduckgo.com/lite/ 202 14840
+2025-02-16 23:04:27,100 - INFO - Error to search using lite backend: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+2025-02-16 23:04:28,282 - INFO - response: https://html.duckduckgo.com/html 202 14864
+2025-02-16 23:04:28,282 - INFO - Error to search using html backend: https://html.duckduckgo.com/html 202 Ratelimit
+2025-02-16 23:04:59,892 - INFO - response: https://html.duckduckgo.com/html 202 14710
+2025-02-16 23:04:59,892 - INFO - Error to search using html backend: https://html.duckduckgo.com/html 202 Ratelimit
+2025-02-16 23:05:01,073 - INFO - response: https://lite.duckduckgo.com/lite/ 202 14710
+2025-02-16 23:05:01,073 - INFO - Error to search using lite backend: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+2025-02-16 23:05:13,292 - INFO - Running tests from: tests/test_login.py
+2025-02-16 23:05:23,162 - INFO - Running tests from: tests/test_payment.py
+2025-02-16 23:05:55,708 - INFO - Test results saved to test_results.json
+2025-02-16 23:05:55,708 - INFO - Generating HTML report...
+2025-02-16 23:06:48,264 - INFO - Processing test scenarios from C:\Users\Vignesh\Downloads\test_scenario_web_ai.xlsx...
+2025-02-16 23:07:02,258 - INFO - response: https://lite.duckduckgo.com/lite/ 202 14852
+2025-02-16 23:07:02,258 - INFO - Error to search using lite backend: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+2025-02-16 23:07:03,394 - INFO - response: https://html.duckduckgo.com/html 202 14845
+2025-02-16 23:07:03,394 - INFO - Error to search using html backend: https://html.duckduckgo.com/html 202 Ratelimit
+2025-02-16 23:07:43,400 - INFO - response: https://lite.duckduckgo.com/lite/ 202 14716
+2025-02-16 23:07:43,400 - INFO - Error to search using lite backend: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+2025-02-16 23:07:44,522 - INFO - response: https://html.duckduckgo.com/html 202 14704
+2025-02-16 23:07:44,522 - INFO - Error to search using html backend: https://html.duckduckgo.com/html 202 Ratelimit
+2025-02-16 23:07:56,324 - INFO - Running tests from: tests/test_login.py
+2025-02-16 23:08:05,644 - INFO - Running tests from: tests/test_payment.py
+2025-02-16 23:08:38,301 - INFO - Test results saved to test_results.json
+2025-02-16 23:08:38,301 - INFO - Generating HTML report...
+2025-02-16 23:09:18,192 - INFO - Processing test scenarios from C:\Users\Vignesh\Downloads\test_scenario_web_ai.xlsx...
+2025-02-16 23:09:33,282 - INFO - response: https://lite.duckduckgo.com/lite/ 202 14840
+2025-02-16 23:09:33,282 - INFO - Error to search using lite backend: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+2025-02-16 23:09:34,431 - INFO - response: https://html.duckduckgo.com/html 202 14852
+2025-02-16 23:09:34,431 - INFO - Error to search using html backend: https://html.duckduckgo.com/html 202 Ratelimit
+2025-02-16 23:09:57,152 - INFO - response: https://lite.duckduckgo.com/lite/ 202 14722
+2025-02-16 23:09:57,152 - INFO - Error to search using lite backend: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+2025-02-16 23:09:58,351 - INFO - response: https://html.duckduckgo.com/html 202 14716
+2025-02-16 23:09:58,351 - INFO - Error to search using html backend: https://html.duckduckgo.com/html 202 Ratelimit
+2025-02-16 23:10:20,388 - INFO - Running tests from: tests/test_login.py
+2025-02-16 23:10:24,989 - INFO - Running tests from: tests/test_payment.py
+2025-02-16 23:10:27,555 - INFO - Test results saved to test_results.json
+2025-02-16 23:10:27,555 - INFO - Generating HTML report...
+2025-02-16 23:11:54,597 - INFO - Processing test scenarios from C:\Users\Vignesh\Downloads\test_scenario_web_ai.xlsx...
+2025-02-16 23:12:19,459 - INFO - Error to search using html backend: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): operation timed out
+
+Caused by:
+    operation timed out
+2025-02-16 23:12:20,607 - INFO - response: https://lite.duckduckgo.com/lite/ 202 14840
+2025-02-16 23:12:20,607 - INFO - Error to search using lite backend: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+2025-02-16 23:12:58,651 - INFO - Error to search using lite backend: https://lite.duckduckgo.com/lite/ RuntimeError: error sending request for url (https://lite.duckduckgo.com/lite/): operation timed out
+
+Caused by:
+    operation timed out
+2025-02-16 23:12:59,815 - INFO - response: https://html.duckduckgo.com/html 202 14710
+2025-02-16 23:12:59,815 - INFO - Error to search using html backend: https://html.duckduckgo.com/html 202 Ratelimit
+2025-02-16 23:13:10,104 - INFO - Running test: tests/test_login.py
+2025-02-16 23:13:13,158 - INFO - Running test: tests/test_payment.py
+2025-02-16 23:13:45,465 - INFO - Test results saved to test_results.json
+2025-02-16 23:13:45,465 - INFO - Generating HTML report...
+2025-02-16 23:13:45,466 - INFO - HTML report generated successfully.
+2025-02-16 23:14:23,492 - INFO - Processing test scenarios from C:\Users\Vignesh\Downloads\test_scenario_web_ai.xlsx...
+2025-02-16 23:14:42,498 - INFO - response: https://lite.duckduckgo.com/lite/ 202 14864
+2025-02-16 23:14:42,500 - INFO - Error to search using lite backend: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+2025-02-16 23:14:43,759 - INFO - response: https://html.duckduckgo.com/html 202 14852
+2025-02-16 23:14:43,759 - INFO - Error to search using html backend: https://html.duckduckgo.com/html 202 Ratelimit
+2025-02-16 23:15:12,618 - INFO - response: https://html.duckduckgo.com/html 202 14716
+2025-02-16 23:15:12,619 - INFO - Error to search using html backend: https://html.duckduckgo.com/html 202 Ratelimit
+2025-02-16 23:15:13,808 - INFO - response: https://lite.duckduckgo.com/lite/ 202 14704
+2025-02-16 23:15:13,808 - INFO - Error to search using lite backend: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+2025-02-16 23:15:22,858 - INFO - Running test: tests/test_login.py
+2025-02-16 23:15:25,979 - INFO - Running test: tests/test_payment.py
+2025-02-16 23:15:58,390 - INFO - Test results saved to test_results.json
+2025-02-16 23:15:58,390 - INFO - Generating HTML report...
+2025-02-16 23:15:58,391 - INFO - HTML report generated successfully.

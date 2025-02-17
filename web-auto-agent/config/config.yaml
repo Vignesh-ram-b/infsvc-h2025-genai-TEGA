@@ -1,0 +1,6 @@
+- name: Install dependencies
+  run: pip install -r requirements.txt
+- name: Run tests
+  run: python run_tests.py
+- name: Upload report to S3
+  run: aws s3 cp report.html s3://my-s3-bucket/reports/report.html

@@ -1,0 +1,32 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Test Report</title>
+    </head>
+    <body>
+        <h1>Test Results</h1>
+        <table border="1">
+            <tr>
+                <th>Test Name</th>
+                <th>Scenario</th>
+                <th>Status</th>
+            </tr>
+    
+        <tr>
+            <td>login</td>
+            <td>1.Login to saucelab "https://www.saucedemo.com/" with valid username as "standard_user" & password as "secret_sauce", then assert redirection 
+2. Login to saucelab "https://www.saucedemo.com/" with invalid username as "standard_" & password as "secret_", then assert error message</td>
+            <td>Pass</td>
+        </tr>
+        
+        <tr>
+            <td>payment</td>
+            <td>Login to saucelab "https://www.saucedemo.com/" with valid username & password, add 1st two product in cart, then go to cart click checkout and add  first name,last name and zip code and click continue ,check whether Price Total amount is the sum of two product added</td>
+            <td>Fail</td>
+        </tr>
+        
+        </table>
+    </body>
+    </html>
+    

@@ -1,0 +1,16 @@
+[
+    {
+        "Test Name": "login",
+        "Scenario": "1.Login to saucelab \"https://www.saucedemo.com/\" with valid username as \"standard_user\" & password as \"secret_sauce\", then assert redirection \n2. Login to saucelab \"https://www.saucedemo.com/\" with invalid username as \"standard_\" & password as \"secret_\", then assert error message",
+        "Status": "Pass",
+        "Execution Time (s)": 3.12,
+        "Timestamp": "2025-02-16 23:15:25"
+    },
+    {
+        "Test Name": "payment",
+        "Scenario": "Login to saucelab \"https://www.saucedemo.com/\" with valid username & password, add 1st two product in cart, then go to cart click checkout and add  first name,last name and zip code and click continue ,check whether Price Total amount is the sum of two product added",
+        "Status": "Fail",
+        "Execution Time (s)": 32.41,
+        "Timestamp": "2025-02-16 23:15:58"
+    }
+]
